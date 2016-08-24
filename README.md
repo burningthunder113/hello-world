@@ -1,5 +1,6 @@
 # hello-world
 Just another repository
+figuring it out hasnt gotten better
 
 
 
@@ -7,4 +8,3 @@ Just another repository
 
 
 
-Yup still trying to figure this out
